@@ -1,7 +1,7 @@
 Cura
 ====
 
-If you are reading this, then you are looking at the *development* version of Cura. If you just want to use Cura look at the following location: https://github.com/daid/Cura/wiki
+If you are reading this, then you are looking at the *development* version of Cura.
 
 Development
 ===========
